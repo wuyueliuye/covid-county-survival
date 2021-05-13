@@ -56,3 +56,15 @@ Survival Analysis
 
 - Cox Proportional Hazard Model: protective effects in terms of the factors considered 
 - Model Diagnosis: proportional hazard assumption, outlier checking, nonlinearity checking
+
+
+
+#### References
+
+[https://stats.idre.ucla.edu/sas/seminars/sas-survival/](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstats.idre.ucla.edu%2Fsas%2Fseminars%2Fsas-survival%2F&data=04|01|Z1835441%40students.niu.edu|22d3109e516c47a92e3008d8d1f3957d|ea8733908c1c4231a7996b5a0235b2e6|0|0|637490191392757349|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|1000&sdata=ZutHxOWN0fhEU1TyZQfOEAiu2yI0vHKXOyGEbnuX%2F6s%3D&reserved=0)
+
+https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/
+
+http://www.sthda.com/english/wiki/cox-model-assumptions
+
+https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Survival/BS704_Survival6.html
