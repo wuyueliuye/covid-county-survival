@@ -58,7 +58,7 @@ Survival Analysis
 - Model Diagnosis: proportional hazard assumption, outlier checking, nonlinearity checking
 
 ![image](https://user-images.githubusercontent.com/47954276/119771047-ae0c4e00-be82-11eb-8f2c-7d0bd43be242.png)
-
+Wearing masks have protective effect on serious covid case rate
 
 #### References
 
